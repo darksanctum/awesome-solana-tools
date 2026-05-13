@@ -28,6 +28,7 @@ Curated list of free Solana DeFi tools, bots, signal scanners, and resources.
 - [DexScreener](https://dexscreener.com) - DEX pair analytics
 - [Sentinel Signals Scanner](https://darksanctum.github.io/sentinel-signals/scanner.html) - Free token scoring
 - [RugCheck](https://rugcheck.xyz) - Token safety analysis
+- [Sharpe Rug Check](https://www.sharpe.ai/rug-check) - Solana token risk scanner for contract, liquidity, holder, and trading-risk checks
 - [Solscan Token Analytics](https://solscan.io) - Holder distribution
 
 ## Development Tools

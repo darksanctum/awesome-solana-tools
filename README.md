@@ -30,6 +30,10 @@ Curated list of free Solana DeFi tools, bots, signal scanners, and resources.
 - [RugCheck](https://rugcheck.xyz) - Token safety analysis
 - [Solscan Token Analytics](https://solscan.io) - Holder distribution
 
+## AI Agent Tools
+
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for Solana AI agent wallets with x402 micropayment verification. MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
 ## Development Tools
 
 - [Solana Web3.js](https://github.com/solana-labs/solana-web3.js) - JavaScript SDK

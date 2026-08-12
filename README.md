@@ -35,6 +35,7 @@ Curated list of free Solana DeFi tools, bots, signal scanners, and resources.
 - [Solana Web3.js](https://github.com/solana-labs/solana-web3.js) - JavaScript SDK
 - [Anchor](https://book.anchor-lang.com/) - Solana framework
 - [Helius](https://dev.helius.xyz) - RPC and DAS API
+- [n8n Solana Mint/Program Monitor](https://github.com/DeusAcc/n8n-solana-mint-monitor) - Free, MIT-licensed n8n workflow: watches an SPL mint or program ID via public RPC and alerts on Telegram on new transactions, no external DB needed
 
 ## Wallets
 

@@ -10,6 +10,7 @@ Curated list of free Solana DeFi tools, bots, signal scanners, and resources.
 | Jupiter Limit Orders | Telegram Bot | Free | Limit orders and DCA on Jupiter |
 | DexScreener | Web | Free | Real-time DEX charts and pair data |
 | Birdeye | Web + Bot | Freemium | Multi-chain portfolio and signals |
+| [Solgrok](https://lmajster.github.io/sgrok/) | AI Agent + Token | Free | Autonomous Solana creator-ops agent ($SGROK). Bags: https://bags.fm/7QpJ8Pb3pGhoArRPJu3TXbx1p3ezn3TCwz6cMcwQBAGS |
 
 ## DEX Aggregators
 

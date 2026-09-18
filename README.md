@@ -35,6 +35,7 @@ Curated list of free Solana DeFi tools, bots, signal scanners, and resources.
 - [Solana Web3.js](https://github.com/solana-labs/solana-web3.js) - JavaScript SDK
 - [Anchor](https://book.anchor-lang.com/) - Solana framework
 - [Helius](https://dev.helius.xyz) - RPC and DAS API
+- [HostDeFi](https://hostdefi.com/scan) - Free A+–F token-safety scanner across Solana and 7 EVM chains (mint/freeze authority, liquidity depth, holder concentration). Keyless REST API.
 
 ## Wallets
 

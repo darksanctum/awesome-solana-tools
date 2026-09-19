@@ -30,6 +30,10 @@ Curated list of free Solana DeFi tools, bots, signal scanners, and resources.
 - [RugCheck](https://rugcheck.xyz) - Token safety analysis
 - [Solscan Token Analytics](https://solscan.io) - Holder distribution
 
+## Portfolio & LP Analytics
+
+- [QuantumPools](https://quantumpools.io) - Multi-chain concentrated-liquidity LP bookkeeping & Cover Value (fees vs IL vs original deposit) across EVM + Solana.
+
 ## Development Tools
 
 - [Solana Web3.js](https://github.com/solana-labs/solana-web3.js) - JavaScript SDK

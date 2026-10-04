@@ -25,6 +25,7 @@ Curated list of free Solana DeFi tools, bots, signal scanners, and resources.
 
 ## Token Analysis
 
+- [bilbop](https://api.bilbop.org) - Solana x402 pay-per-call APIs for agents: token market brief, mint authorities/supply, summarize, TTS, brand feedback (USDC on Solana via PayAI)
 - [DexScreener](https://dexscreener.com) - DEX pair analytics
 - [Sentinel Signals Scanner](https://darksanctum.github.io/sentinel-signals/scanner.html) - Free token scoring
 - [RugCheck](https://rugcheck.xyz) - Token safety analysis

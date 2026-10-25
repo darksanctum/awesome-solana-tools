@@ -16,6 +16,7 @@ Curated list of free Solana DeFi tools, bots, signal scanners, and resources.
 - [Jupiter](https://jup.ag) - Best Solana DEX aggregator
 - [Raydium](https://raydium.io) - AMM and liquidity pools
 - [Orca](https://orca.so) - Concentrated liquidity AMM
+- [Craic Hub Exchange](https://thehubexchange.com) - Non-custodial Solana swap front end routing via Jupiter, with a LI.FI cross-chain bridge; token launch and listings. Fees paid in $CRAIC are burned.
 
 ## Block Explorers
 
